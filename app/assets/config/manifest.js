@@ -5,4 +5,3 @@
 //= link administrate/application.js
 //= link manager.css
 //= link attestation.css
-//= link_tree ../../../node_modules/@gouvfr/dsfr/dist/artwork
