@@ -8,7 +8,7 @@ http_interactions:
       string: client_id=1234&client_secret=5678&grant_type=client_credentials
     headers:
       User-Agent:
-      - demarches-simplifiees.fr
+      - demarches.leclan.re
       Expect:
       - ''
   response:
@@ -45,7 +45,7 @@ http_interactions:
       string: ''
     headers:
       User-Agent:
-      - demarches-simplifiees.fr
+      - demarches.leclan.re
       Authorization:
       - Bearer redacted
       Content-Type:
@@ -99,7 +99,7 @@ http_interactions:
       string: ''
     headers:
       User-Agent:
-      - demarches-simplifiees.fr
+      - demarches.leclan.re
       Authorization:
       - Bearer redacted
       Content-Type:

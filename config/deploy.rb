@@ -31,7 +31,7 @@ shared_dirs = [
 set :domain, ENV.fetch('DOMAINS')
 set :deploy_to, deploy_to
 # rubocop:disable DS/ApplicationName
-set :repository, 'https://github.com/betagouv/demarches-simplifiees.fr.git'
+set :repository, 'https://github.com/le-clan/demarches-leclan-re.git'
 # rubocop:enable DS/ApplicationName
 set :branch, ENV.fetch('BRANCH')
 set :forward_agent, true

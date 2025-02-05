@@ -4,8 +4,8 @@
 
 publiccodeYmlVersion: '0.2'
 name: Démarches Simplifiéees
-url: 'https://github.com/demarches-simplifiees/demarches-simplifiees.fr'
-landingURL: 'https://www.demarches-simplifiees.fr/'
+url: 'https://github.com/le-clan/demarches-leclan-re'
+landingURL: 'https://demarches.leclan.re/'
 roadmap: 'https://github.com/demarches-simplifiees/demarches-simplifiees.fr/wiki/Feuille-de-route'
 releaseDate: 'https://github.com/demarches-simplifiees/demarches-simplifiees.fr/releases/latest'
 developmentStatus: beta
@@ -15,7 +15,7 @@ categories:
 platforms:
   - web
 logo: |-
-  https://www.demarches-simplifiees.fr/logo-icon.png
+  https://demarches.leclan.re/logo-icon.png
 legal:
   license: GPL-3.0-or-later
 localisation:

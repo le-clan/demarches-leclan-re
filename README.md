@@ -1,8 +1,8 @@
-# demarches-simplifiees.fr
+# demarches.leclan.re
 
 ## Contexte
 
-[demarches-simplifiees.fr](https://www.demarches-simplifiees.fr) est un site web conçu afin de répondre au besoin urgent de l'État d'appliquer la directive sur le 100 % dématérialisation pour les démarches administratives.
+[demarches.leclan.re](https://demarches.leclan.re) est un site web conçu pour gérer les appels à projets et diverses démarches en ligne initiées par Le Clan. La plateforme s'appuie sur le logiciel libre [demarches-simplifiees.fr](https://demarches-simplifiees.fr).
 
 ## Comment contribuer ?
 
