@@ -2,6 +2,8 @@
 
 source 'https://rubygems.org'
 
+ruby '3.3.6'
+
 gem 'rails', '~> 7.0.8' # allows update to security fixes at any time
 
 gem 'aasm'
