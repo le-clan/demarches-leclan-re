@@ -42,6 +42,7 @@
     "@tiptap/pm": "^2.2.4",
     "@tiptap/suggestion": "^2.2.4",
     "@tmcw/togeojson": "^5.8.1",
+    "bun": "^1.2.2",
     "chartkick": "^5.0.1",
     "core-js": "^3.37.1",
     "date-fns": "^3.6.0",
@@ -114,7 +115,8 @@
     "test": "vitest",
     "coverage": "vitest run --coverage",
     "up": "bunx npm-check-updates --root --format group -i",
-    "vite-bundle-visualizer": "bunx vite-bundle-visualizer"
+    "vite-bundle-visualizer": "bunx vite-bundle-visualizer",
+    "build": "bun bun.config.js"
   },
   "trustedDependencies": [
     "core-js",

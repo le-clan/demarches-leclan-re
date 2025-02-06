@@ -5,3 +5,4 @@
 //= link administrate/application.js
 //= link manager.css
 //= link attestation.css
+//= link_tree ../builds

@@ -1,1 +1,4 @@
 *.lockb binary diff=lockb
+
+# See https://bun.sh/docs/install/lockfile
+*.lockb diff=lockb
